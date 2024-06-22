@@ -24,3 +24,6 @@ We directly use the generative codes to randomly generate facial images.
 > https://github.com/zyh-uaiaaaa/Mine-Extra-Knowledge
 
 We modify the codes to train on real datasets and modified datasets using original MEK method, we then modify the codes to train with supervised learning method.
+
+### generated samples
+![Generated Image](/generated%20samples/image.png)
